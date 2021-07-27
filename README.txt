@@ -35,5 +35,7 @@ but make sure to comment out or even remove this line befor installing
 gchar **command = (gchar *[]){"/usr/local/bin/tinshell", NULL };
 --------------------------------------------
 
+tinshell - https://github.com/BeanGreen247/tinshell
+
 Thomas Mozdren (mozdrent@gmail.com)
 Contact mozdrent@gmail.com to correct errors or typos.
