@@ -1,5 +1,4 @@
 #include <vte/vte.h>
-#include <time.h>
 
 static void
 child_ready(VteTerminal *terminal, GPid pid, GError *error, gpointer user_data)
