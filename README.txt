@@ -30,7 +30,7 @@ This terminal emulator uses tinshell by default, but can be changed to use your 
 gchar **command = (gchar *[]){g_strdup(g_environ_getenv(envp, "SHELL")), NULL };
 --------------------------------------------
 
-but make sure to comment out or even remove this line befor installing
+but make sure to comment out or even remove this line before installing
 --------------------------------------------
 gchar **command = (gchar *[]){"/usr/local/bin/tinshell", NULL };
 --------------------------------------------
